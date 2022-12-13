@@ -12,5 +12,7 @@ function calcAge(birthYear) {
     return age;
 }
 
-const firstName = "Jonas";
+
+
+var firstName = "Jonas";
 calcAge(1991);
